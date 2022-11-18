@@ -1,0 +1,1444 @@
+,Código Departamento,Código Municipio,Medio Tecnologico,Utiliza,Cantidad
+0,7,701,celular,Usa,47386
+1,7,702,celular,Usa,1925
+2,7,703,celular,Usa,1591
+3,7,704,celular,Usa,11922
+4,7,705,celular,Usa,31939
+5,7,706,celular,Usa,20593
+6,7,707,celular,Usa,5253
+7,7,708,celular,Usa,3009
+8,7,709,celular,Usa,6898
+9,7,710,celular,Usa,10067
+10,7,711,celular,Usa,1662
+11,7,712,celular,Usa,7106
+12,7,713,celular,Usa,13558
+13,7,714,celular,Usa,2719
+14,7,715,celular,Usa,3248
+15,7,716,celular,Usa,1527
+16,7,717,celular,Usa,6898
+17,7,718,celular,Usa,6629
+18,7,719,celular,Usa,19548
+19,8,801,celular,Usa,59101
+20,8,802,celular,Usa,17306
+21,8,803,celular,Usa,25711
+22,8,804,celular,Usa,11926
+23,8,805,celular,Usa,44053
+24,8,806,celular,Usa,20882
+25,8,807,celular,Usa,8821
+26,8,808,celular,Usa,4947
+27,12,1201,celular,Usa,29346
+28,12,1202,celular,Usa,48834
+29,12,1203,celular,Usa,10641
+30,12,1204,celular,Usa,22792
+31,12,1205,celular,Usa,20804
+32,12,1206,celular,Usa,27804
+33,12,1207,celular,Usa,27653
+34,12,1208,celular,Usa,6329
+35,12,1209,celular,Usa,20830
+36,12,1210,celular,Usa,19690
+37,12,1211,celular,Usa,9490
+38,12,1212,celular,Usa,14218
+39,12,1213,celular,Usa,19074
+40,12,1214,celular,Usa,8913
+41,12,1215,celular,Usa,37548
+42,12,1216,celular,Usa,15922
+43,12,1217,celular,Usa,19972
+44,12,1218,celular,Usa,5216
+45,12,1219,celular,Usa,24248
+46,12,1220,celular,Usa,11138
+47,12,1221,celular,Usa,7595
+48,12,1222,celular,Usa,10775
+49,12,1223,celular,Usa,9766
+50,12,1224,celular,Usa,9114
+51,12,1225,celular,Usa,8821
+52,12,1226,celular,Usa,9016
+53,12,1227,celular,Usa,7210
+54,12,1228,celular,Usa,2843
+55,12,1229,celular,Usa,6548
+56,12,1230,celular,Usa,13427
+57,13,1301,celular,Usa,78001
+58,13,1302,celular,Usa,40236
+59,13,1303,celular,Usa,9951
+60,13,1304,celular,Usa,27888
+61,13,1305,celular,Usa,15098
+62,13,1306,celular,Usa,18223
+63,13,1307,celular,Usa,20648
+64,13,1308,celular,Usa,21663
+65,13,1309,celular,Usa,23807
+66,13,1310,celular,Usa,14362
+67,13,1311,celular,Usa,17415
+68,13,1312,celular,Usa,26127
+69,13,1313,celular,Usa,8587
+70,13,1314,celular,Usa,5589
+71,13,1315,celular,Usa,16049
+72,13,1316,celular,Usa,9646
+73,13,1317,celular,Usa,15347
+74,13,1318,celular,Usa,12435
+75,13,1319,celular,Usa,12048
+76,13,1320,celular,Usa,13190
+77,13,1321,celular,Usa,4023
+78,13,1322,celular,Usa,7525
+79,13,1323,celular,Usa,9915
+80,13,1324,celular,Usa,8465
+81,13,1325,celular,Usa,11179
+82,13,1326,celular,Usa,40883
+83,13,1327,celular,Usa,24359
+84,13,1328,celular,Usa,5099
+85,13,1329,celular,Usa,3029
+86,13,1330,celular,Usa,5468
+87,13,1331,celular,Usa,5399
+88,13,1332,celular,Usa,8381
+89,13,1333,celular,Usa,3133
+90,14,1401,celular,Usa,40240
+91,14,1402,celular,Usa,14187
+92,14,1403,celular,Usa,5355
+93,14,1404,celular,Usa,14412
+94,14,1405,celular,Usa,17437
+95,14,1406,celular,Usa,63138
+96,14,1407,celular,Usa,2733
+97,14,1408,celular,Usa,12293
+98,14,1409,celular,Usa,15248
+99,14,1410,celular,Usa,17028
+100,14,1411,celular,Usa,11315
+101,14,1412,celular,Usa,36685
+102,14,1413,celular,Usa,35444
+103,14,1414,celular,Usa,10040
+104,14,1415,celular,Usa,21887
+105,14,1416,celular,Usa,23558
+106,14,1417,celular,Usa,6213
+107,14,1418,celular,Usa,5851
+108,14,1419,celular,Usa,13552
+109,14,1420,celular,Usa,41970
+110,14,1421,celular,Usa,5374
+111,7,701,celular,No Usa,26897
+112,7,702,celular,No Usa,1426
+113,7,703,celular,No Usa,456
+114,7,704,celular,No Usa,6303
+115,7,705,celular,No Usa,30842
+116,7,706,celular,No Usa,26346
+117,7,707,celular,No Usa,2744
+118,7,708,celular,No Usa,2357
+119,7,709,celular,No Usa,4088
+120,7,710,celular,No Usa,2908
+121,7,711,celular,No Usa,1600
+122,7,712,celular,No Usa,5024
+123,7,713,celular,No Usa,11534
+124,7,714,celular,No Usa,2093
+125,7,715,celular,No Usa,3044
+126,7,716,celular,No Usa,748
+127,7,717,celular,No Usa,3293
+128,7,718,celular,No Usa,2722
+129,7,719,celular,No Usa,16540
+130,8,801,celular,No Usa,30391
+131,8,802,celular,No Usa,12254
+132,8,803,celular,No Usa,19951
+133,8,804,celular,No Usa,10460
+134,8,805,celular,No Usa,40157
+135,8,806,celular,No Usa,22759
+136,8,807,celular,No Usa,8591
+137,8,808,celular,No Usa,3533
+138,12,1201,celular,No Usa,10358
+139,12,1202,celular,No Usa,18304
+140,12,1203,celular,No Usa,5079
+141,12,1204,celular,No Usa,23518
+142,12,1205,celular,No Usa,15788
+143,12,1206,celular,No Usa,23850
+144,12,1207,celular,No Usa,33650
+145,12,1208,celular,No Usa,6401
+146,12,1209,celular,No Usa,18091
+147,12,1210,celular,No Usa,11234
+148,12,1211,celular,No Usa,4901
+149,12,1212,celular,No Usa,10650
+150,12,1213,celular,No Usa,17461
+151,12,1214,celular,No Usa,5935
+152,12,1215,celular,No Usa,37538
+153,12,1216,celular,No Usa,9354
+154,12,1217,celular,No Usa,10575
+155,12,1218,celular,No Usa,3668
+156,12,1219,celular,No Usa,16270
+157,12,1220,celular,No Usa,8025
+158,12,1221,celular,No Usa,7278
+159,12,1222,celular,No Usa,7353
+160,12,1223,celular,No Usa,7633
+161,12,1224,celular,No Usa,6049
+162,12,1225,celular,No Usa,4801
+163,12,1226,celular,No Usa,6507
+164,12,1227,celular,No Usa,3433
+165,12,1228,celular,No Usa,1604
+166,12,1229,celular,No Usa,4173
+167,12,1230,celular,No Usa,10309
+168,13,1301,celular,No Usa,22493
+169,13,1302,celular,No Usa,30658
+170,13,1303,celular,No Usa,5910
+171,13,1304,celular,No Usa,19776
+172,13,1305,celular,No Usa,20689
+173,13,1306,celular,No Usa,12836
+174,13,1307,celular,No Usa,10545
+175,13,1308,celular,No Usa,16299
+176,13,1309,celular,No Usa,10971
+177,13,1310,celular,No Usa,11738
+178,13,1311,celular,No Usa,13091
+179,13,1312,celular,No Usa,18247
+180,13,1313,celular,No Usa,12257
+181,13,1314,celular,No Usa,5368
+182,13,1315,celular,No Usa,7981
+183,13,1316,celular,No Usa,6176
+184,13,1317,celular,No Usa,14291
+185,13,1318,celular,No Usa,20962
+186,13,1319,celular,No Usa,14938
+187,13,1320,celular,No Usa,12774
+188,13,1321,celular,No Usa,4569
+189,13,1322,celular,No Usa,7387
+190,13,1323,celular,No Usa,7967
+191,13,1324,celular,No Usa,5409
+192,13,1325,celular,No Usa,5402
+193,13,1326,celular,No Usa,37460
+194,13,1327,celular,No Usa,16659
+195,13,1328,celular,No Usa,4037
+196,13,1329,celular,No Usa,3203
+197,13,1330,celular,No Usa,3283
+198,13,1331,celular,No Usa,2401
+199,13,1332,celular,No Usa,4399
+200,13,1333,celular,No Usa,1860
+201,14,1401,celular,No Usa,22978
+202,14,1402,celular,No Usa,9828
+203,14,1403,celular,No Usa,3907
+204,14,1404,celular,No Usa,12030
+205,14,1405,celular,No Usa,20098
+206,14,1406,celular,No Usa,53300
+207,14,1407,celular,No Usa,2134
+208,14,1408,celular,No Usa,7575
+209,14,1409,celular,No Usa,9806
+210,14,1410,celular,No Usa,15383
+211,14,1411,celular,No Usa,14085
+212,14,1412,celular,No Usa,27361
+213,14,1413,celular,No Usa,24602
+214,14,1414,celular,No Usa,10190
+215,14,1415,celular,No Usa,29688
+216,14,1416,celular,No Usa,19022
+217,14,1417,celular,No Usa,4503
+218,14,1418,celular,No Usa,3763
+219,14,1419,celular,No Usa,17550
+220,14,1420,celular,No Usa,36351
+221,14,1421,celular,No Usa,2172
+222,7,701,celular,No Declara,819
+223,7,702,celular,No Declara,36
+224,7,703,celular,No Declara,12
+225,7,704,celular,No Declara,133
+226,7,705,celular,No Declara,628
+227,7,706,celular,No Declara,740
+228,7,707,celular,No Declara,74
+229,7,708,celular,No Declara,71
+230,7,709,celular,No Declara,128
+231,7,710,celular,No Declara,93
+232,7,711,celular,No Declara,61
+233,7,712,celular,No Declara,112
+234,7,713,celular,No Declara,285
+235,7,714,celular,No Declara,34
+236,7,715,celular,No Declara,37
+237,7,716,celular,No Declara,23
+238,7,717,celular,No Declara,109
+239,7,718,celular,No Declara,96
+240,7,719,celular,No Declara,523
+241,8,801,celular,No Declara,1112
+242,8,802,celular,No Declara,1750
+243,8,803,celular,No Declara,3350
+244,8,804,celular,No Declara,420
+245,8,805,celular,No Declara,2179
+246,8,806,celular,No Declara,784
+247,8,807,celular,No Declara,265
+248,8,808,celular,No Declara,116
+249,12,1201,celular,No Declara,452
+250,12,1202,celular,No Declara,596
+251,12,1203,celular,No Declara,104
+252,12,1204,celular,No Declara,893
+253,12,1205,celular,No Declara,445
+254,12,1206,celular,No Declara,1460
+255,12,1207,celular,No Declara,824
+256,12,1208,celular,No Declara,99
+257,12,1209,celular,No Declara,1386
+258,12,1210,celular,No Declara,254
+259,12,1211,celular,No Declara,155
+260,12,1212,celular,No Declara,355
+261,12,1213,celular,No Declara,451
+262,12,1214,celular,No Declara,146
+263,12,1215,celular,No Declara,2203
+264,12,1216,celular,No Declara,133
+265,12,1217,celular,No Declara,402
+266,12,1218,celular,No Declara,121
+267,12,1219,celular,No Declara,238
+268,12,1220,celular,No Declara,195
+269,12,1221,celular,No Declara,56
+270,12,1222,celular,No Declara,182
+271,12,1223,celular,No Declara,545
+272,12,1224,celular,No Declara,396
+273,12,1225,celular,No Declara,93
+274,12,1226,celular,No Declara,428
+275,12,1227,celular,No Declara,44
+276,12,1228,celular,No Declara,21
+277,12,1229,celular,No Declara,71
+278,12,1230,celular,No Declara,200
+279,13,1301,celular,No Declara,754
+280,13,1302,celular,No Declara,677
+281,13,1303,celular,No Declara,98
+282,13,1304,celular,No Declara,520
+283,13,1305,celular,No Declara,423
+284,13,1306,celular,No Declara,318
+285,13,1307,celular,No Declara,205
+286,13,1308,celular,No Declara,497
+287,13,1309,celular,No Declara,277
+288,13,1310,celular,No Declara,534
+289,13,1311,celular,No Declara,466
+290,13,1312,celular,No Declara,892
+291,13,1313,celular,No Declara,180
+292,13,1314,celular,No Declara,93
+293,13,1315,celular,No Declara,343
+294,13,1316,celular,No Declara,85
+295,13,1317,celular,No Declara,1069
+296,13,1318,celular,No Declara,700
+297,13,1319,celular,No Declara,316
+298,13,1320,celular,No Declara,297
+299,13,1321,celular,No Declara,116
+300,13,1322,celular,No Declara,133
+301,13,1323,celular,No Declara,310
+302,13,1324,celular,No Declara,95
+303,13,1325,celular,No Declara,188
+304,13,1326,celular,No Declara,1149
+305,13,1327,celular,No Declara,321
+306,13,1328,celular,No Declara,62
+307,13,1329,celular,No Declara,38
+308,13,1330,celular,No Declara,62
+309,13,1331,celular,No Declara,86
+310,13,1332,celular,No Declara,174
+311,13,1333,celular,No Declara,34
+312,14,1401,celular,No Declara,2810
+313,14,1402,celular,No Declara,245
+314,14,1403,celular,No Declara,224
+315,14,1404,celular,No Declara,374
+316,14,1405,celular,No Declara,307
+317,14,1406,celular,No Declara,1596
+318,14,1407,celular,No Declara,95
+319,14,1408,celular,No Declara,360
+320,14,1409,celular,No Declara,888
+321,14,1410,celular,No Declara,375
+322,14,1411,celular,No Declara,217
+323,14,1412,celular,No Declara,1353
+324,14,1413,celular,No Declara,776
+325,14,1414,celular,No Declara,594
+326,14,1415,celular,No Declara,863
+327,14,1416,celular,No Declara,371
+328,14,1417,celular,No Declara,144
+329,14,1418,celular,No Declara,397
+330,14,1419,celular,No Declara,433
+331,14,1420,celular,No Declara,532
+332,14,1421,celular,No Declara,32
+333,7,701,computadora,Usa,13887
+334,7,702,computadora,Usa,555
+335,7,703,computadora,Usa,966
+336,7,704,computadora,Usa,3421
+337,7,705,computadora,Usa,6898
+338,7,706,computadora,Usa,4295
+339,7,707,computadora,Usa,2062
+340,7,708,computadora,Usa,183
+341,7,709,computadora,Usa,2178
+342,7,710,computadora,Usa,5827
+343,7,711,computadora,Usa,311
+344,7,712,computadora,Usa,1303
+345,7,713,computadora,Usa,4233
+346,7,714,computadora,Usa,769
+347,7,715,computadora,Usa,773
+348,7,716,computadora,Usa,925
+349,7,717,computadora,Usa,3262
+350,7,718,computadora,Usa,3307
+351,7,719,computadora,Usa,5229
+352,8,801,computadora,Usa,21146
+353,8,802,computadora,Usa,4456
+354,8,803,computadora,Usa,4714
+355,8,804,computadora,Usa,3081
+356,8,805,computadora,Usa,7540
+357,8,806,computadora,Usa,2569
+358,8,807,computadora,Usa,467
+359,8,808,computadora,Usa,897
+360,12,1201,computadora,Usa,13495
+361,12,1202,computadora,Usa,20441
+362,12,1203,computadora,Usa,2928
+363,12,1204,computadora,Usa,6007
+364,12,1205,computadora,Usa,2288
+365,12,1206,computadora,Usa,3248
+366,12,1207,computadora,Usa,3867
+367,12,1208,computadora,Usa,1487
+368,12,1209,computadora,Usa,1275
+369,12,1210,computadora,Usa,3097
+370,12,1211,computadora,Usa,2979
+371,12,1212,computadora,Usa,2085
+372,12,1213,computadora,Usa,3037
+373,12,1214,computadora,Usa,1547
+374,12,1215,computadora,Usa,6889
+375,12,1216,computadora,Usa,3709
+376,12,1217,computadora,Usa,4938
+377,12,1218,computadora,Usa,707
+378,12,1219,computadora,Usa,4957
+379,12,1220,computadora,Usa,1571
+380,12,1221,computadora,Usa,1329
+381,12,1222,computadora,Usa,2059
+382,12,1223,computadora,Usa,833
+383,12,1224,computadora,Usa,657
+384,12,1225,computadora,Usa,947
+385,12,1226,computadora,Usa,947
+386,12,1227,computadora,Usa,1753
+387,12,1228,computadora,Usa,463
+388,12,1229,computadora,Usa,1606
+389,12,1230,computadora,Usa,2182
+390,13,1301,computadora,Usa,37453
+391,13,1302,computadora,Usa,7029
+392,13,1303,computadora,Usa,2001
+393,13,1304,computadora,Usa,2268
+394,13,1305,computadora,Usa,1795
+395,13,1306,computadora,Usa,2728
+396,13,1307,computadora,Usa,6866
+397,13,1308,computadora,Usa,3625
+398,13,1309,computadora,Usa,3396
+399,13,1310,computadora,Usa,424
+400,13,1311,computadora,Usa,1167
+401,13,1312,computadora,Usa,2890
+402,13,1313,computadora,Usa,549
+403,13,1314,computadora,Usa,500
+404,13,1315,computadora,Usa,978
+405,13,1316,computadora,Usa,321
+406,13,1317,computadora,Usa,2841
+407,13,1318,computadora,Usa,902
+408,13,1319,computadora,Usa,610
+409,13,1320,computadora,Usa,1445
+410,13,1321,computadora,Usa,394
+411,13,1322,computadora,Usa,404
+412,13,1323,computadora,Usa,1203
+413,13,1324,computadora,Usa,1851
+414,13,1325,computadora,Usa,1339
+415,13,1326,computadora,Usa,6360
+416,13,1327,computadora,Usa,3901
+417,13,1328,computadora,Usa,764
+418,13,1329,computadora,Usa,84
+419,13,1330,computadora,Usa,234
+420,13,1331,computadora,Usa,1102
+421,13,1332,computadora,Usa,845
+422,13,1333,computadora,Usa,548
+423,14,1401,computadora,Usa,14215
+424,14,1402,computadora,Usa,1515
+425,14,1403,computadora,Usa,1189
+426,14,1404,computadora,Usa,1697
+427,14,1405,computadora,Usa,1772
+428,14,1406,computadora,Usa,8494
+429,14,1407,computadora,Usa,390
+430,14,1408,computadora,Usa,1492
+431,14,1409,computadora,Usa,861
+432,14,1410,computadora,Usa,3153
+433,14,1411,computadora,Usa,3864
+434,14,1412,computadora,Usa,3206
+435,14,1413,computadora,Usa,6353
+436,14,1414,computadora,Usa,978
+437,14,1415,computadora,Usa,3645
+438,14,1416,computadora,Usa,2329
+439,14,1417,computadora,Usa,365
+440,14,1418,computadora,Usa,923
+441,14,1419,computadora,Usa,2127
+442,14,1420,computadora,Usa,6948
+443,14,1421,computadora,Usa,1341
+444,7,701,computadora,No Usa,60568
+445,7,702,computadora,No Usa,2805
+446,7,703,computadora,No Usa,1081
+447,7,704,computadora,No Usa,14852
+448,7,705,computadora,No Usa,56072
+449,7,706,computadora,No Usa,42967
+450,7,707,computadora,No Usa,5967
+451,7,708,computadora,No Usa,5218
+452,7,709,computadora,No Usa,8824
+453,7,710,computadora,No Usa,7175
+454,7,711,computadora,No Usa,2964
+455,7,712,computadora,No Usa,10821
+456,7,713,computadora,No Usa,20897
+457,7,714,computadora,No Usa,4063
+458,7,715,computadora,No Usa,5532
+459,7,716,computadora,No Usa,1359
+460,7,717,computadora,No Usa,6965
+461,7,718,computadora,No Usa,6064
+462,7,719,computadora,No Usa,31108
+463,8,801,computadora,No Usa,68678
+464,8,802,computadora,No Usa,25810
+465,8,803,computadora,No Usa,42202
+466,8,804,computadora,No Usa,19438
+467,8,805,computadora,No Usa,77400
+468,8,806,computadora,No Usa,41356
+469,8,807,computadora,No Usa,17075
+470,8,808,computadora,No Usa,7624
+471,12,1201,computadora,No Usa,26216
+472,12,1202,computadora,No Usa,46686
+473,12,1203,computadora,No Usa,12802
+474,12,1204,computadora,No Usa,40724
+475,12,1205,computadora,No Usa,34502
+476,12,1206,computadora,No Usa,49117
+477,12,1207,computadora,No Usa,57712
+478,12,1208,computadora,No Usa,11233
+479,12,1209,computadora,No Usa,38229
+480,12,1210,computadora,No Usa,27812
+481,12,1211,computadora,No Usa,11433
+482,12,1212,computadora,No Usa,22884
+483,12,1213,computadora,No Usa,33525
+484,12,1214,computadora,No Usa,13334
+485,12,1215,computadora,No Usa,68761
+486,12,1216,computadora,No Usa,21572
+487,12,1217,computadora,No Usa,25598
+488,12,1218,computadora,No Usa,8203
+489,12,1219,computadora,No Usa,35587
+490,12,1220,computadora,No Usa,17576
+491,12,1221,computadora,No Usa,13567
+492,12,1222,computadora,No Usa,15880
+493,12,1223,computadora,No Usa,16792
+494,12,1224,computadora,No Usa,14700
+495,12,1225,computadora,No Usa,12628
+496,12,1226,computadora,No Usa,14669
+497,12,1227,computadora,No Usa,8891
+498,12,1228,computadora,No Usa,3981
+499,12,1229,computadora,No Usa,9105
+500,12,1230,computadora,No Usa,21587
+501,13,1301,computadora,No Usa,63207
+502,13,1302,computadora,No Usa,64075
+503,13,1303,computadora,No Usa,13849
+504,13,1304,computadora,No Usa,45596
+505,13,1305,computadora,No Usa,34179
+506,13,1306,computadora,No Usa,28461
+507,13,1307,computadora,No Usa,24364
+508,13,1308,computadora,No Usa,34460
+509,13,1309,computadora,No Usa,31474
+510,13,1310,computadora,No Usa,25947
+511,13,1311,computadora,No Usa,29527
+512,13,1312,computadora,No Usa,41751
+513,13,1313,computadora,No Usa,20403
+514,13,1314,computadora,No Usa,10497
+515,13,1315,computadora,No Usa,23216
+516,13,1316,computadora,No Usa,15539
+517,13,1317,computadora,No Usa,27314
+518,13,1318,computadora,No Usa,32924
+519,13,1319,computadora,No Usa,26482
+520,13,1320,computadora,No Usa,24622
+521,13,1321,computadora,No Usa,8255
+522,13,1322,computadora,No Usa,14564
+523,13,1323,computadora,No Usa,16829
+524,13,1324,computadora,No Usa,12058
+525,13,1325,computadora,No Usa,15335
+526,13,1326,computadora,No Usa,72414
+527,13,1327,computadora,No Usa,37239
+528,13,1328,computadora,No Usa,8382
+529,13,1329,computadora,No Usa,6165
+530,13,1330,computadora,No Usa,8532
+531,13,1331,computadora,No Usa,6722
+532,13,1332,computadora,No Usa,11985
+533,13,1333,computadora,No Usa,4468
+534,14,1401,computadora,No Usa,50029
+535,14,1402,computadora,No Usa,22538
+536,14,1403,computadora,No Usa,8150
+537,14,1404,computadora,No Usa,24890
+538,14,1405,computadora,No Usa,35954
+539,14,1406,computadora,No Usa,108451
+540,14,1407,computadora,No Usa,4527
+541,14,1408,computadora,No Usa,18544
+542,14,1409,computadora,No Usa,24527
+543,14,1410,computadora,No Usa,29393
+544,14,1411,computadora,No Usa,21651
+545,14,1412,computadora,No Usa,61621
+546,14,1413,computadora,No Usa,53927
+547,14,1414,computadora,No Usa,19547
+548,14,1415,computadora,No Usa,48360
+549,14,1416,computadora,No Usa,40375
+550,14,1417,computadora,No Usa,10456
+551,14,1418,computadora,No Usa,8815
+552,14,1419,computadora,No Usa,29210
+553,14,1420,computadora,No Usa,71444
+554,14,1421,computadora,No Usa,6225
+555,7,701,computadora,No Declara,647
+556,7,702,computadora,No Declara,27
+557,7,703,computadora,No Declara,12
+558,7,704,computadora,No Declara,85
+559,7,705,computadora,No Declara,439
+560,7,706,computadora,No Declara,417
+561,7,707,computadora,No Declara,42
+562,7,708,computadora,No Declara,36
+563,7,709,computadora,No Declara,112
+564,7,710,computadora,No Declara,66
+565,7,711,computadora,No Declara,48
+566,7,712,computadora,No Declara,118
+567,7,713,computadora,No Declara,247
+568,7,714,computadora,No Declara,14
+569,7,715,computadora,No Declara,24
+570,7,716,computadora,No Declara,14
+571,7,717,computadora,No Declara,73
+572,7,718,computadora,No Declara,76
+573,7,719,computadora,No Declara,274
+574,8,801,computadora,No Declara,780
+575,8,802,computadora,No Declara,1044
+576,8,803,computadora,No Declara,2096
+577,8,804,computadora,No Declara,287
+578,8,805,computadora,No Declara,1449
+579,8,806,computadora,No Declara,500
+580,8,807,computadora,No Declara,135
+581,8,808,computadora,No Declara,75
+582,12,1201,computadora,No Declara,445
+583,12,1202,computadora,No Declara,607
+584,12,1203,computadora,No Declara,94
+585,12,1204,computadora,No Declara,472
+586,12,1205,computadora,No Declara,247
+587,12,1206,computadora,No Declara,749
+588,12,1207,computadora,No Declara,548
+589,12,1208,computadora,No Declara,109
+590,12,1209,computadora,No Declara,803
+591,12,1210,computadora,No Declara,269
+592,12,1211,computadora,No Declara,134
+593,12,1212,computadora,No Declara,254
+594,12,1213,computadora,No Declara,424
+595,12,1214,computadora,No Declara,113
+596,12,1215,computadora,No Declara,1639
+597,12,1216,computadora,No Declara,128
+598,12,1217,computadora,No Declara,413
+599,12,1218,computadora,No Declara,95
+600,12,1219,computadora,No Declara,212
+601,12,1220,computadora,No Declara,211
+602,12,1221,computadora,No Declara,33
+603,12,1222,computadora,No Declara,371
+604,12,1223,computadora,No Declara,319
+605,12,1224,computadora,No Declara,202
+606,12,1225,computadora,No Declara,140
+607,12,1226,computadora,No Declara,335
+608,12,1227,computadora,No Declara,43
+609,12,1228,computadora,No Declara,24
+610,12,1229,computadora,No Declara,81
+611,12,1230,computadora,No Declara,167
+612,13,1301,computadora,No Declara,588
+613,13,1302,computadora,No Declara,467
+614,13,1303,computadora,No Declara,109
+615,13,1304,computadora,No Declara,320
+616,13,1305,computadora,No Declara,236
+617,13,1306,computadora,No Declara,188
+618,13,1307,computadora,No Declara,168
+619,13,1308,computadora,No Declara,374
+620,13,1309,computadora,No Declara,185
+621,13,1310,computadora,No Declara,263
+622,13,1311,computadora,No Declara,278
+623,13,1312,computadora,No Declara,625
+624,13,1313,computadora,No Declara,72
+625,13,1314,computadora,No Declara,53
+626,13,1315,computadora,No Declara,179
+627,13,1316,computadora,No Declara,47
+628,13,1317,computadora,No Declara,552
+629,13,1318,computadora,No Declara,271
+630,13,1319,computadora,No Declara,210
+631,13,1320,computadora,No Declara,194
+632,13,1321,computadora,No Declara,59
+633,13,1322,computadora,No Declara,77
+634,13,1323,computadora,No Declara,160
+635,13,1324,computadora,No Declara,60
+636,13,1325,computadora,No Declara,95
+637,13,1326,computadora,No Declara,718
+638,13,1327,computadora,No Declara,199
+639,13,1328,computadora,No Declara,52
+640,13,1329,computadora,No Declara,21
+641,13,1330,computadora,No Declara,47
+642,13,1331,computadora,No Declara,62
+643,13,1332,computadora,No Declara,124
+644,13,1333,computadora,No Declara,11
+645,14,1401,computadora,No Declara,1784
+646,14,1402,computadora,No Declara,207
+647,14,1403,computadora,No Declara,147
+648,14,1404,computadora,No Declara,229
+649,14,1405,computadora,No Declara,116
+650,14,1406,computadora,No Declara,1089
+651,14,1407,computadora,No Declara,45
+652,14,1408,computadora,No Declara,192
+653,14,1409,computadora,No Declara,554
+654,14,1410,computadora,No Declara,240
+655,14,1411,computadora,No Declara,102
+656,14,1412,computadora,No Declara,572
+657,14,1413,computadora,No Declara,542
+658,14,1414,computadora,No Declara,299
+659,14,1415,computadora,No Declara,433
+660,14,1416,computadora,No Declara,247
+661,14,1417,computadora,No Declara,39
+662,14,1418,computadora,No Declara,273
+663,14,1419,computadora,No Declara,198
+664,14,1420,computadora,No Declara,461
+665,14,1421,computadora,No Declara,12
+666,7,701,internet,usa,17599
+667,7,702,internet,usa,548
+668,7,703,internet,usa,972
+669,7,704,internet,usa,4537
+670,7,705,internet,usa,9338
+671,7,706,internet,usa,5313
+672,7,707,internet,usa,2165
+673,7,708,internet,usa,395
+674,7,709,internet,usa,3019
+675,7,710,internet,usa,6913
+676,7,711,internet,usa,423
+677,7,712,internet,usa,2002
+678,7,713,internet,usa,4759
+679,7,714,internet,usa,1135
+680,7,715,internet,usa,776
+681,7,716,internet,usa,972
+682,7,717,internet,usa,3382
+683,7,718,internet,usa,3537
+684,7,719,internet,usa,6352
+685,8,801,internet,usa,28454
+686,8,802,internet,usa,6324
+687,8,803,internet,usa,8310
+688,8,804,internet,usa,4362
+689,8,805,internet,usa,11459
+690,8,806,internet,usa,3791
+691,8,807,internet,usa,1565
+692,8,808,internet,usa,1237
+693,12,1201,internet,usa,17424
+694,12,1202,internet,usa,24654
+695,12,1203,internet,usa,4000
+696,12,1204,internet,usa,6035
+697,12,1205,internet,usa,3553
+698,12,1206,internet,usa,4324
+699,12,1207,internet,usa,5833
+700,12,1208,internet,usa,1981
+701,12,1209,internet,usa,5525
+702,12,1210,internet,usa,5495
+703,12,1211,internet,usa,4630
+704,12,1212,internet,usa,4168
+705,12,1213,internet,usa,5194
+706,12,1214,internet,usa,4299
+707,12,1215,internet,usa,12053
+708,12,1216,internet,usa,6143
+709,12,1217,internet,usa,9903
+710,12,1218,internet,usa,1846
+711,12,1219,internet,usa,9012
+712,12,1220,internet,usa,4237
+713,12,1221,internet,usa,2823
+714,12,1222,internet,usa,4751
+715,12,1223,internet,usa,1139
+716,12,1224,internet,usa,837
+717,12,1225,internet,usa,1090
+718,12,1226,internet,usa,1167
+719,12,1227,internet,usa,3194
+720,12,1228,internet,usa,1117
+721,12,1229,internet,usa,1990
+722,12,1230,internet,usa,5041
+723,13,1301,internet,usa,50680
+724,13,1302,internet,usa,11056
+725,13,1303,internet,usa,2964
+726,13,1304,internet,usa,7978
+727,13,1305,internet,usa,4799
+728,13,1306,internet,usa,4656
+729,13,1307,internet,usa,10557
+730,13,1308,internet,usa,7450
+731,13,1309,internet,usa,5304
+732,13,1310,internet,usa,2120
+733,13,1311,internet,usa,6073
+734,13,1312,internet,usa,7954
+735,13,1313,internet,usa,1191
+736,13,1314,internet,usa,1027
+737,13,1315,internet,usa,4059
+738,13,1316,internet,usa,546
+739,13,1317,internet,usa,3424
+740,13,1318,internet,usa,1172
+741,13,1319,internet,usa,939
+742,13,1320,internet,usa,2088
+743,13,1321,internet,usa,1346
+744,13,1322,internet,usa,2001
+745,13,1323,internet,usa,1985
+746,13,1324,internet,usa,4008
+747,13,1325,internet,usa,3501
+748,13,1326,internet,usa,9308
+749,13,1327,internet,usa,6547
+750,13,1328,internet,usa,1416
+751,13,1329,internet,usa,237
+752,13,1330,internet,usa,450
+753,13,1331,internet,usa,2674
+754,13,1332,internet,usa,4106
+755,13,1333,internet,usa,1674
+756,14,1401,internet,usa,18500
+757,14,1402,internet,usa,4016
+758,14,1403,internet,usa,1496
+759,14,1404,internet,usa,4067
+760,14,1405,internet,usa,2621
+761,14,1406,internet,usa,9470
+762,14,1407,internet,usa,650
+763,14,1408,internet,usa,3783
+764,14,1409,internet,usa,1968
+765,14,1410,internet,usa,4257
+766,14,1411,internet,usa,3961
+767,14,1412,internet,usa,8187
+768,14,1413,internet,usa,7936
+769,14,1414,internet,usa,2004
+770,14,1415,internet,usa,5869
+771,14,1416,internet,usa,3943
+772,14,1417,internet,usa,1108
+773,14,1418,internet,usa,1686
+774,14,1419,internet,usa,3151
+775,14,1420,internet,usa,9711
+776,14,1421,internet,usa,2953
+777,7,701,internet,No Usa,56413
+778,7,702,internet,No Usa,2783
+779,7,703,internet,No Usa,1072
+780,7,704,internet,No Usa,13694
+781,7,705,internet,No Usa,53183
+782,7,706,internet,No Usa,41505
+783,7,707,internet,No Usa,5824
+784,7,708,internet,No Usa,4972
+785,7,709,internet,No Usa,7921
+786,7,710,internet,No Usa,6058
+787,7,711,internet,No Usa,2829
+788,7,712,internet,No Usa,10066
+789,7,713,internet,No Usa,20235
+790,7,714,internet,No Usa,3679
+791,7,715,internet,No Usa,5480
+792,7,716,internet,No Usa,1308
+793,7,717,internet,No Usa,6733
+794,7,718,internet,No Usa,5757
+795,7,719,internet,No Usa,29682
+796,8,801,internet,No Usa,60881
+797,8,802,internet,No Usa,23148
+798,8,803,internet,No Usa,37151
+799,8,804,internet,No Usa,17982
+800,8,805,internet,No Usa,72356
+801,8,806,internet,No Usa,39643
+802,8,807,internet,No Usa,15783
+803,8,808,internet,No Usa,7207
+804,12,1201,internet,No Usa,22124
+805,12,1202,internet,No Usa,41990
+806,12,1203,internet,No Usa,11637
+807,12,1204,internet,No Usa,40140
+808,12,1205,internet,No Usa,32994
+809,12,1206,internet,No Usa,47037
+810,12,1207,internet,No Usa,55292
+811,12,1208,internet,No Usa,10657
+812,12,1209,internet,No Usa,33199
+813,12,1210,internet,No Usa,25282
+814,12,1211,internet,No Usa,9709
+815,12,1212,internet,No Usa,20617
+816,12,1213,internet,No Usa,31267
+817,12,1214,internet,No Usa,10539
+818,12,1215,internet,No Usa,62688
+819,12,1216,internet,No Usa,19091
+820,12,1217,internet,No Usa,20538
+821,12,1218,internet,No Usa,7031
+822,12,1219,internet,No Usa,31450
+823,12,1220,internet,No Usa,14910
+824,12,1221,internet,No Usa,12047
+825,12,1222,internet,No Usa,13278
+826,12,1223,internet,No Usa,16195
+827,12,1224,internet,No Usa,14306
+828,12,1225,internet,No Usa,12423
+829,12,1226,internet,No Usa,14241
+830,12,1227,internet,No Usa,7429
+831,12,1228,internet,No Usa,3322
+832,12,1229,internet,No Usa,8669
+833,12,1230,internet,No Usa,18690
+834,13,1301,internet,No Usa,49776
+835,13,1302,internet,No Usa,59644
+836,13,1303,internet,No Usa,12844
+837,13,1304,internet,No Usa,39618
+838,13,1305,internet,No Usa,30912
+839,13,1306,internet,No Usa,26394
+840,13,1307,internet,No Usa,20610
+841,13,1308,internet,No Usa,30412
+842,13,1309,internet,No Usa,29371
+843,13,1310,internet,No Usa,23906
+844,13,1311,internet,No Usa,24403
+845,13,1312,internet,No Usa,36223
+846,13,1313,internet,No Usa,19646
+847,13,1314,internet,No Usa,9912
+848,13,1315,internet,No Usa,19882
+849,13,1316,internet,No Usa,15241
+850,13,1317,internet,No Usa,26113
+851,13,1318,internet,No Usa,32206
+852,13,1319,internet,No Usa,25940
+853,13,1320,internet,No Usa,23770
+854,13,1321,internet,No Usa,7232
+855,13,1322,internet,No Usa,12840
+856,13,1323,internet,No Usa,15877
+857,13,1324,internet,No Usa,9842
+858,13,1325,internet,No Usa,13022
+859,13,1326,internet,No Usa,68861
+860,13,1327,internet,No Usa,34420
+861,13,1328,internet,No Usa,7708
+862,13,1329,internet,No Usa,5968
+863,13,1330,internet,No Usa,8232
+864,13,1331,internet,No Usa,5104
+865,13,1332,internet,No Usa,8613
+866,13,1333,internet,No Usa,3342
+867,14,1401,internet,No Usa,44477
+868,14,1402,internet,No Usa,19873
+869,14,1403,internet,No Usa,7707
+870,14,1404,internet,No Usa,22301
+871,14,1405,internet,No Usa,34923
+872,14,1406,internet,No Usa,106435
+873,14,1407,internet,No Usa,4219
+874,14,1408,internet,No Usa,16024
+875,14,1409,internet,No Usa,22862
+876,14,1410,internet,No Usa,28044
+877,14,1411,internet,No Usa,21202
+878,14,1412,internet,No Usa,55647
+879,14,1413,internet,No Usa,51785
+880,14,1414,internet,No Usa,18190
+881,14,1415,internet,No Usa,45587
+882,14,1416,internet,No Usa,38428
+883,14,1417,internet,No Usa,9584
+884,14,1418,internet,No Usa,7891
+885,14,1419,internet,No Usa,27860
+886,14,1420,internet,No Usa,68353
+887,14,1421,internet,No Usa,4603
+888,7,701,internet,No Declara,1090
+889,7,702,internet,No Declara,56
+890,7,703,internet,No Declara,15
+891,7,704,internet,No Declara,127
+892,7,705,internet,No Declara,888
+893,7,706,internet,No Declara,861
+894,7,707,internet,No Declara,82
+895,7,708,internet,No Declara,70
+896,7,709,internet,No Declara,174
+897,7,710,internet,No Declara,97
+898,7,711,internet,No Declara,71
+899,7,712,internet,No Declara,174
+900,7,713,internet,No Declara,383
+901,7,714,internet,No Declara,32
+902,7,715,internet,No Declara,73
+903,7,716,internet,No Declara,18
+904,7,717,internet,No Declara,185
+905,7,718,internet,No Declara,153
+906,7,719,internet,No Declara,577
+907,8,801,internet,No Declara,1269
+908,8,802,internet,No Declara,1838
+909,8,803,internet,No Declara,3551
+910,8,804,internet,No Declara,462
+911,8,805,internet,No Declara,2574
+912,8,806,internet,No Declara,991
+913,8,807,internet,No Declara,329
+914,8,808,internet,No Declara,152
+915,12,1201,internet,No Declara,608
+916,12,1202,internet,No Declara,1090
+917,12,1203,internet,No Declara,187
+918,12,1204,internet,No Declara,1028
+919,12,1205,internet,No Declara,490
+920,12,1206,internet,No Declara,1753
+921,12,1207,internet,No Declara,1002
+922,12,1208,internet,No Declara,191
+923,12,1209,internet,No Declara,1583
+924,12,1210,internet,No Declara,401
+925,12,1211,internet,No Declara,207
+926,12,1212,internet,No Declara,438
+927,12,1213,internet,No Declara,525
+928,12,1214,internet,No Declara,156
+929,12,1215,internet,No Declara,2548
+930,12,1216,internet,No Declara,175
+931,12,1217,internet,No Declara,508
+932,12,1218,internet,No Declara,128
+933,12,1219,internet,No Declara,294
+934,12,1220,internet,No Declara,211
+935,12,1221,internet,No Declara,59
+936,12,1222,internet,No Declara,281
+937,12,1223,internet,No Declara,610
+938,12,1224,internet,No Declara,416
+939,12,1225,internet,No Declara,202
+940,12,1226,internet,No Declara,543
+941,12,1227,internet,No Declara,64
+942,12,1228,internet,No Declara,29
+943,12,1229,internet,No Declara,133
+944,12,1230,internet,No Declara,205
+945,13,1301,internet,No Declara,792
+946,13,1302,internet,No Declara,871
+947,13,1303,internet,No Declara,151
+948,13,1304,internet,No Declara,588
+949,13,1305,internet,No Declara,499
+950,13,1306,internet,No Declara,327
+951,13,1307,internet,No Declara,231
+952,13,1308,internet,No Declara,597
+953,13,1309,internet,No Declara,380
+954,13,1310,internet,No Declara,608
+955,13,1311,internet,No Declara,496
+956,13,1312,internet,No Declara,1089
+957,13,1313,internet,No Declara,187
+958,13,1314,internet,No Declara,111
+959,13,1315,internet,No Declara,432
+960,13,1316,internet,No Declara,120
+961,13,1317,internet,No Declara,1170
+962,13,1318,internet,No Declara,719
+963,13,1319,internet,No Declara,423
+964,13,1320,internet,No Declara,403
+965,13,1321,internet,No Declara,130
+966,13,1322,internet,No Declara,204
+967,13,1323,internet,No Declara,330
+968,13,1324,internet,No Declara,119
+969,13,1325,internet,No Declara,246
+970,13,1326,internet,No Declara,1323
+971,13,1327,internet,No Declara,372
+972,13,1328,internet,No Declara,74
+973,13,1329,internet,No Declara,65
+974,13,1330,internet,No Declara,131
+975,13,1331,internet,No Declara,108
+976,13,1332,internet,No Declara,235
+977,13,1333,internet,No Declara,11
+978,14,1401,internet,No Declara,3051
+979,14,1402,internet,No Declara,371
+980,14,1403,internet,No Declara,283
+981,14,1404,internet,No Declara,448
+982,14,1405,internet,No Declara,298
+983,14,1406,internet,No Declara,2129
+984,14,1407,internet,No Declara,93
+985,14,1408,internet,No Declara,421
+986,14,1409,internet,No Declara,1112
+987,14,1410,internet,No Declara,485
+988,14,1411,internet,No Declara,454
+989,14,1412,internet,No Declara,1565
+990,14,1413,internet,No Declara,1101
+991,14,1414,internet,No Declara,630
+992,14,1415,internet,No Declara,982
+993,14,1416,internet,No Declara,580
+994,14,1417,internet,No Declara,168
+995,14,1418,internet,No Declara,434
+996,14,1419,internet,No Declara,524
+997,14,1420,internet,No Declara,789
+998,14,1421,internet,No Declara,22
+999,7,701,"Celular, computadora e internet",Usa,11976
+1000,7,702,"Celular, computadora e internet",Usa,354
+1001,7,703,"Celular, computadora e internet",Usa,860
+1002,7,704,"Celular, computadora e internet",Usa,2908
+1003,7,705,"Celular, computadora e internet",Usa,5563
+1004,7,706,"Celular, computadora e internet",Usa,3307
+1005,7,707,"Celular, computadora e internet",Usa,1784
+1006,7,708,"Celular, computadora e internet",Usa,165
+1007,7,709,"Celular, computadora e internet",Usa,1869
+1008,7,710,"Celular, computadora e internet",Usa,5119
+1009,7,711,"Celular, computadora e internet",Usa,291
+1010,7,712,"Celular, computadora e internet",Usa,1003
+1011,7,713,"Celular, computadora e internet",Usa,3440
+1012,7,714,"Celular, computadora e internet",Usa,453
+1013,7,715,"Celular, computadora e internet",Usa,560
+1014,7,716,"Celular, computadora e internet",Usa,706
+1015,7,717,"Celular, computadora e internet",Usa,2687
+1016,7,718,"Celular, computadora e internet",Usa,2834
+1017,7,719,"Celular, computadora e internet",Usa,3951
+1018,8,801,"Celular, computadora e internet",Usa,18461
+1019,8,802,"Celular, computadora e internet",Usa,3843
+1020,8,803,"Celular, computadora e internet",Usa,3840
+1021,8,804,"Celular, computadora e internet",Usa,2472
+1022,8,805,"Celular, computadora e internet",Usa,6148
+1023,8,806,"Celular, computadora e internet",Usa,1947
+1024,8,807,"Celular, computadora e internet",Usa,329
+1025,8,808,"Celular, computadora e internet",Usa,645
+1026,12,1201,"Celular, computadora e internet",Usa,12301
+1027,12,1202,"Celular, computadora e internet",Usa,18301
+1028,12,1203,"Celular, computadora e internet",Usa,2544
+1029,12,1204,"Celular, computadora e internet",Usa,4754
+1030,12,1205,"Celular, computadora e internet",Usa,1803
+1031,12,1206,"Celular, computadora e internet",Usa,2389
+1032,12,1207,"Celular, computadora e internet",Usa,3296
+1033,12,1208,"Celular, computadora e internet",Usa,1024
+1034,12,1209,"Celular, computadora e internet",Usa,1130
+1035,12,1210,"Celular, computadora e internet",Usa,2773
+1036,12,1211,"Celular, computadora e internet",Usa,2665
+1037,12,1212,"Celular, computadora e internet",Usa,1734
+1038,12,1213,"Celular, computadora e internet",Usa,2607
+1039,12,1214,"Celular, computadora e internet",Usa,1457
+1040,12,1215,"Celular, computadora e internet",Usa,6386
+1041,12,1216,"Celular, computadora e internet",Usa,3287
+1042,12,1217,"Celular, computadora e internet",Usa,4619
+1043,12,1218,"Celular, computadora e internet",Usa,610
+1044,12,1219,"Celular, computadora e internet",Usa,4467
+1045,12,1220,"Celular, computadora e internet",Usa,1418
+1046,12,1221,"Celular, computadora e internet",Usa,1124
+1047,12,1222,"Celular, computadora e internet",Usa,1869
+1048,12,1223,"Celular, computadora e internet",Usa,706
+1049,12,1224,"Celular, computadora e internet",Usa,433
+1050,12,1225,"Celular, computadora e internet",Usa,846
+1051,12,1226,"Celular, computadora e internet",Usa,774
+1052,12,1227,"Celular, computadora e internet",Usa,1465
+1053,12,1228,"Celular, computadora e internet",Usa,404
+1054,12,1229,"Celular, computadora e internet",Usa,1354
+1055,12,1230,"Celular, computadora e internet",Usa,1751
+1056,13,1301,"Celular, computadora e internet",Usa,34468
+1057,13,1302,"Celular, computadora e internet",Usa,6342
+1058,13,1303,"Celular, computadora e internet",Usa,1808
+1059,13,1304,"Celular, computadora e internet",Usa,1967
+1060,13,1305,"Celular, computadora e internet",Usa,1515
+1061,13,1306,"Celular, computadora e internet",Usa,2323
+1062,13,1307,"Celular, computadora e internet",Usa,5747
+1063,13,1308,"Celular, computadora e internet",Usa,3072
+1064,13,1309,"Celular, computadora e internet",Usa,2839
+1065,13,1310,"Celular, computadora e internet",Usa,322
+1066,13,1311,"Celular, computadora e internet",Usa,1017
+1067,13,1312,"Celular, computadora e internet",Usa,2534
+1068,13,1313,"Celular, computadora e internet",Usa,428
+1069,13,1314,"Celular, computadora e internet",Usa,376
+1070,13,1315,"Celular, computadora e internet",Usa,821
+1071,13,1316,"Celular, computadora e internet",Usa,256
+1072,13,1317,"Celular, computadora e internet",Usa,1816
+1073,13,1318,"Celular, computadora e internet",Usa,579
+1074,13,1319,"Celular, computadora e internet",Usa,454
+1075,13,1320,"Celular, computadora e internet",Usa,1236
+1076,13,1321,"Celular, computadora e internet",Usa,329
+1077,13,1322,"Celular, computadora e internet",Usa,315
+1078,13,1323,"Celular, computadora e internet",Usa,969
+1079,13,1324,"Celular, computadora e internet",Usa,1635
+1080,13,1325,"Celular, computadora e internet",Usa,1221
+1081,13,1326,"Celular, computadora e internet",Usa,5351
+1082,13,1327,"Celular, computadora e internet",Usa,3005
+1083,13,1328,"Celular, computadora e internet",Usa,606
+1084,13,1329,"Celular, computadora e internet",Usa,49
+1085,13,1330,"Celular, computadora e internet",Usa,172
+1086,13,1331,"Celular, computadora e internet",Usa,1002
+1087,13,1332,"Celular, computadora e internet",Usa,799
+1088,13,1333,"Celular, computadora e internet",Usa,458
+1089,14,1401,"Celular, computadora e internet",Usa,13077
+1090,14,1402,"Celular, computadora e internet",Usa,1266
+1091,14,1403,"Celular, computadora e internet",Usa,1066
+1092,14,1404,"Celular, computadora e internet",Usa,1446
+1093,14,1405,"Celular, computadora e internet",Usa,1398
+1094,14,1406,"Celular, computadora e internet",Usa,6434
+1095,14,1407,"Celular, computadora e internet",Usa,255
+1096,14,1408,"Celular, computadora e internet",Usa,1300
+1097,14,1409,"Celular, computadora e internet",Usa,684
+1098,14,1410,"Celular, computadora e internet",Usa,2567
+1099,14,1411,"Celular, computadora e internet",Usa,2954
+1100,14,1412,"Celular, computadora e internet",Usa,2637
+1101,14,1413,"Celular, computadora e internet",Usa,5259
+1102,14,1414,"Celular, computadora e internet",Usa,878
+1103,14,1415,"Celular, computadora e internet",Usa,3032
+1104,14,1416,"Celular, computadora e internet",Usa,1900
+1105,14,1417,"Celular, computadora e internet",Usa,309
+1106,14,1418,"Celular, computadora e internet",Usa,840
+1107,14,1419,"Celular, computadora e internet",Usa,1668
+1108,14,1420,"Celular, computadora e internet",Usa,5687
+1109,14,1421,"Celular, computadora e internet",Usa,1145
+1110,7,701,Celular y computadora,Usa,12415
+1111,7,702,Celular y computadora,Usa,437
+1112,7,703,Celular y computadora,Usa,903
+1113,7,704,Celular y computadora,Usa,3082
+1114,7,705,Celular y computadora,Usa,6062
+1115,7,706,Celular y computadora,Usa,3581
+1116,7,707,Celular y computadora,Usa,1873
+1117,7,708,Celular y computadora,Usa,168
+1118,7,709,Celular y computadora,Usa,1971
+1119,7,710,Celular y computadora,Usa,5217
+1120,7,711,Celular y computadora,Usa,301
+1121,7,712,Celular y computadora,Usa,1062
+1122,7,713,Celular y computadora,Usa,3645
+1123,7,714,Celular y computadora,Usa,466
+1124,7,715,Celular y computadora,Usa,679
+1125,7,716,Celular y computadora,Usa,748
+1126,7,717,Celular y computadora,Usa,2845
+1127,7,718,Celular y computadora,Usa,2964
+1128,7,719,Celular y computadora,Usa,4176
+1129,8,801,Celular y computadora,Usa,19241
+1130,8,802,Celular y computadora,Usa,4099
+1131,8,803,Celular y computadora,Usa,4044
+1132,8,804,Celular y computadora,Usa,2732
+1133,8,805,Celular y computadora,Usa,6462
+1134,8,806,Celular y computadora,Usa,2069
+1135,8,807,Celular y computadora,Usa,369
+1136,8,808,Celular y computadora,Usa,695
+1137,12,1201,Celular y computadora,Usa,12568
+1138,12,1202,Celular y computadora,Usa,18882
+1139,12,1203,Celular y computadora,Usa,2630
+1140,12,1204,Celular y computadora,Usa,5323
+1141,12,1205,Celular y computadora,Usa,2119
+1142,12,1206,Celular y computadora,Usa,2841
+1143,12,1207,Celular y computadora,Usa,3546
+1144,12,1208,Celular y computadora,Usa,1177
+1145,12,1209,Celular y computadora,Usa,1194
+1146,12,1210,Celular y computadora,Usa,2962
+1147,12,1211,Celular y computadora,Usa,2752
+1148,12,1212,Celular y computadora,Usa,1866
+1149,12,1213,Celular y computadora,Usa,2723
+1150,12,1214,Celular y computadora,Usa,1483
+1151,12,1215,Celular y computadora,Usa,6517
+1152,12,1216,Celular y computadora,Usa,3362
+1153,12,1217,Celular y computadora,Usa,4680
+1154,12,1218,Celular y computadora,Usa,629
+1155,12,1219,Celular y computadora,Usa,4616
+1156,12,1220,Celular y computadora,Usa,1456
+1157,12,1221,Celular y computadora,Usa,1167
+1158,12,1222,Celular y computadora,Usa,1914
+1159,12,1223,Celular y computadora,Usa,778
+1160,12,1224,Celular y computadora,Usa,619
+1161,12,1225,Celular y computadora,Usa,914
+1162,12,1226,Celular y computadora,Usa,904
+1163,12,1227,Celular y computadora,Usa,1524
+1164,12,1228,Celular y computadora,Usa,420
+1165,12,1229,Celular y computadora,Usa,1503
+1166,12,1230,Celular y computadora,Usa,1873
+1167,13,1301,Celular y computadora,Usa,35092
+1168,13,1302,Celular y computadora,Usa,6581
+1169,13,1303,Celular y computadora,Usa,1869
+1170,13,1304,Celular y computadora,Usa,2090
+1171,13,1305,Celular y computadora,Usa,1632
+1172,13,1306,Celular y computadora,Usa,2442
+1173,13,1307,Celular y computadora,Usa,6118
+1174,13,1308,Celular y computadora,Usa,3197
+1175,13,1309,Celular y computadora,Usa,3089
+1176,13,1310,Celular y computadora,Usa,388
+1177,13,1311,Celular y computadora,Usa,1063
+1178,13,1312,Celular y computadora,Usa,2672
+1179,13,1313,Celular y computadora,Usa,487
+1180,13,1314,Celular y computadora,Usa,447
+1181,13,1315,Celular y computadora,Usa,879
+1182,13,1316,Celular y computadora,Usa,305
+1183,13,1317,Celular y computadora,Usa,2110
+1184,13,1318,Celular y computadora,Usa,822
+1185,13,1319,Celular y computadora,Usa,544
+1186,13,1320,Celular y computadora,Usa,1368
+1187,13,1321,Celular y computadora,Usa,362
+1188,13,1322,Celular y computadora,Usa,376
+1189,13,1323,Celular y computadora,Usa,1095
+1190,13,1324,Celular y computadora,Usa,1697
+1191,13,1325,Celular y computadora,Usa,1276
+1192,13,1326,Celular y computadora,Usa,5748
+1193,13,1327,Celular y computadora,Usa,3330
+1194,13,1328,Celular y computadora,Usa,642
+1195,13,1329,Celular y computadora,Usa,75
+1196,13,1330,Celular y computadora,Usa,210
+1197,13,1331,Celular y computadora,Usa,1021
+1198,13,1332,Celular y computadora,Usa,814
+1199,13,1333,Celular y computadora,Usa,499
+1200,14,1401,Celular y computadora,Usa,13393
+1201,14,1402,Celular y computadora,Usa,1325
+1202,14,1403,Celular y computadora,Usa,1128
+1203,14,1404,Celular y computadora,Usa,1513
+1204,14,1405,Celular y computadora,Usa,1656
+1205,14,1406,Celular y computadora,Usa,7245
+1206,14,1407,Celular y computadora,Usa,277
+1207,14,1408,Celular y computadora,Usa,1349
+1208,14,1409,Celular y computadora,Usa,784
+1209,14,1410,Celular y computadora,Usa,2812
+1210,14,1411,Celular y computadora,Usa,3140
+1211,14,1412,Celular y computadora,Usa,3024
+1212,14,1413,Celular y computadora,Usa,6000
+1213,14,1414,Celular y computadora,Usa,924
+1214,14,1415,Celular y computadora,Usa,3316
+1215,14,1416,Celular y computadora,Usa,2193
+1216,14,1417,Celular y computadora,Usa,346
+1217,14,1418,Celular y computadora,Usa,865
+1218,14,1419,Celular y computadora,Usa,1945
+1219,14,1420,Celular y computadora,Usa,6345
+1220,14,1421,Celular y computadora,Usa,1171
+1221,7,701,Celular e internet,Usa,16453
+1222,7,702,Celular e internet,Usa,447
+1223,7,703,Celular e internet,Usa,912
+1224,7,704,Celular e internet,Usa,4269
+1225,7,705,Celular e internet,Usa,8826
+1226,7,706,Celular e internet,Usa,4757
+1227,7,707,Celular e internet,Usa,2004
+1228,7,708,Celular e internet,Usa,386
+1229,7,709,Celular e internet,Usa,2856
+1230,7,710,Celular e internet,Usa,6428
+1231,7,711,Celular e internet,Usa,414
+1232,7,712,Celular e internet,Usa,1788
+1233,7,713,Celular e internet,Usa,4230
+1234,7,714,Celular e internet,Usa,970
+1235,7,715,Celular e internet,Usa,707
+1236,7,716,Celular e internet,Usa,809
+1237,7,717,Celular e internet,Usa,3003
+1238,7,718,Celular e internet,Usa,3232
+1239,7,719,Celular e internet,Usa,5602
+1240,8,801,Celular e internet,Usa,26951
+1241,8,802,Celular e internet,Usa,6092
+1242,8,803,Celular e internet,Usa,7858
+1243,8,804,Celular e internet,Usa,4079
+1244,8,805,Celular e internet,Usa,10722
+1245,8,806,Celular e internet,Usa,3448
+1246,8,807,Celular e internet,Usa,1502
+1247,8,808,Celular e internet,Usa,1164
+1248,12,1201,Celular e internet,Usa,16675
+1249,12,1202,Celular e internet,Usa,23350
+1250,12,1203,Celular e internet,Usa,3742
+1251,12,1204,Celular e internet,Usa,5548
+1252,12,1205,Celular e internet,Usa,3470
+1253,12,1206,Celular e internet,Usa,4040
+1254,12,1207,Celular e internet,Usa,5613
+1255,12,1208,Celular e internet,Usa,1785
+1256,12,1209,Celular e internet,Usa,5495
+1257,12,1210,Celular e internet,Usa,5405
+1258,12,1211,Celular e internet,Usa,4436
+1259,12,1212,Celular e internet,Usa,4031
+1260,12,1213,Celular e internet,Usa,4987
+1261,12,1214,Celular e internet,Usa,4254
+1262,12,1215,Celular e internet,Usa,11744
+1263,12,1216,Celular e internet,Usa,5890
+1264,12,1217,Celular e internet,Usa,9707
+1265,12,1218,Celular e internet,Usa,1806
+1266,12,1219,Celular e internet,Usa,8828
+1267,12,1220,Celular e internet,Usa,4143
+1268,12,1221,Celular e internet,Usa,2680
+1269,12,1222,Celular e internet,Usa,4625
+1270,12,1223,Celular e internet,Usa,1108
+1271,12,1224,Celular e internet,Usa,830
+1272,12,1225,Celular e internet,Usa,1068
+1273,12,1226,Celular e internet,Usa,1148
+1274,12,1227,Celular e internet,Usa,3008
+1275,12,1228,Celular e internet,Usa,1081
+1276,12,1229,Celular e internet,Usa,1947
+1277,12,1230,Celular e internet,Usa,4815
+1278,13,1301,Celular e internet,Usa,48712
+1279,13,1302,Celular e internet,Usa,10747
+1280,13,1303,Celular e internet,Usa,2869
+1281,13,1304,Celular e internet,Usa,7872
+1282,13,1305,Celular e internet,Usa,4700
+1283,13,1306,Celular e internet,Usa,4471
+1284,13,1307,Celular e internet,Usa,10066
+1285,13,1308,Celular e internet,Usa,7134
+1286,13,1309,Celular e internet,Usa,5127
+1287,13,1310,Celular e internet,Usa,2106
+1288,13,1311,Celular e internet,Usa,6004
+1289,13,1312,Celular e internet,Usa,7819
+1290,13,1313,Celular e internet,Usa,1155
+1291,13,1314,Celular e internet,Usa,1003
+1292,13,1315,Celular e internet,Usa,4015
+1293,13,1316,Celular e internet,Usa,538
+1294,13,1317,Celular e internet,Usa,2965
+1295,13,1318,Celular e internet,Usa,1135
+1296,13,1319,Celular e internet,Usa,906
+1297,13,1320,Celular e internet,Usa,2035
+1298,13,1321,Celular e internet,Usa,1330
+1299,13,1322,Celular e internet,Usa,1996
+1300,13,1323,Celular e internet,Usa,1941
+1301,13,1324,Celular e internet,Usa,3906
+1302,13,1325,Celular e internet,Usa,3460
+1303,13,1326,Celular e internet,Usa,8948
+1304,13,1327,Celular e internet,Usa,6243
+1305,13,1328,Celular e internet,Usa,1332
+1306,13,1329,Celular e internet,Usa,237
+1307,13,1330,Celular e internet,Usa,446
+1308,13,1331,Celular e internet,Usa,2619
+1309,13,1332,Celular e internet,Usa,4088
+1310,13,1333,Celular e internet,Usa,1652
+1311,14,1401,Celular e internet,Usa,17868
+1312,14,1402,Celular e internet,Usa,3892
+1313,14,1403,Celular e internet,Usa,1461
+1314,14,1404,Celular e internet,Usa,3978
+1315,14,1405,Celular e internet,Usa,2569
+1316,14,1406,Celular e internet,Usa,8835
+1317,14,1407,Celular e internet,Usa,614
+1318,14,1408,Celular e internet,Usa,3692
+1319,14,1409,Celular e internet,Usa,1932
+1320,14,1410,Celular e internet,Usa,3996
+1321,14,1411,Celular e internet,Usa,3591
+1322,14,1412,Celular e internet,Usa,8098
+1323,14,1413,Celular e internet,Usa,7741
+1324,14,1414,Celular e internet,Usa,1969
+1325,14,1415,Celular e internet,Usa,5660
+1326,14,1416,Celular e internet,Usa,3869
+1327,14,1417,Celular e internet,Usa,1098
+1328,14,1418,Celular e internet,Usa,1646
+1329,14,1419,Celular e internet,Usa,3061
+1330,14,1420,Celular e internet,Usa,9301
+1331,14,1421,Celular e internet,Usa,2900
+1332,7,701,Computadora e internet,Usa,13113
+1333,7,702,Computadora e internet,Usa,455
+1334,7,703,Computadora e internet,Usa,919
+1335,7,704,Computadora e internet,Usa,3175
+1336,7,705,Computadora e internet,Usa,6073
+1337,7,706,Computadora e internet,Usa,3858
+1338,7,707,Computadora e internet,Usa,1945
+1339,7,708,Computadora e internet,Usa,174
+1340,7,709,Computadora e internet,Usa,2031
+1341,7,710,Computadora e internet,Usa,5602
+1342,7,711,Computadora e internet,Usa,300
+1343,7,712,Computadora e internet,Usa,1216
+1344,7,713,Computadora e internet,Usa,3968
+1345,7,714,Computadora e internet,Usa,615
+1346,7,715,Computadora e internet,Usa,629
+1347,7,716,Computadora e internet,Usa,868
+1348,7,717,Computadora e internet,Usa,3063
+1349,7,718,Computadora e internet,Usa,3137
+1350,7,719,Computadora e internet,Usa,4698
+1351,8,801,Computadora e internet,Usa,19957
+1352,8,802,Computadora e internet,Usa,4072
+1353,8,803,Computadora e internet,Usa,4286
+1354,8,804,Computadora e internet,Usa,2752
+1355,8,805,Computadora e internet,Usa,6874
+1356,8,806,Computadora e internet,Usa,2286
+1357,8,807,Computadora e internet,Usa,391
+1358,8,808,Computadora e internet,Usa,717
+1359,12,1201,Computadora e internet,Usa,13049
+1360,12,1202,Computadora e internet,Usa,19602
+1361,12,1203,Computadora e internet,Usa,2802
+1362,12,1204,Computadora e internet,Usa,5234
+1363,12,1205,Computadora e internet,Usa,1886
+1364,12,1206,Computadora e internet,Usa,2668
+1365,12,1207,Computadora e internet,Usa,3514
+1366,12,1208,Computadora e internet,Usa,1220
+1367,12,1209,Computadora e internet,Usa,1158
+1368,12,1210,Computadora e internet,Usa,2861
+1369,12,1211,Computadora e internet,Usa,2858
+1370,12,1212,Computadora e internet,Usa,1869
+1371,12,1213,Computadora e internet,Usa,2811
+1372,12,1214,Computadora e internet,Usa,1502
+1373,12,1215,Computadora e internet,Usa,6688
+1374,12,1216,Computadora e internet,Usa,3540
+1375,12,1217,Computadora e internet,Usa,4813
+1376,12,1218,Computadora e internet,Usa,648
+1377,12,1219,Computadora e internet,Usa,4650
+1378,12,1220,Computadora e internet,Usa,1506
+1379,12,1221,Computadora e internet,Usa,1267
+1380,12,1222,Computadora e internet,Usa,1994
+1381,12,1223,Computadora e internet,Usa,736
+1382,12,1224,Computadora e internet,Usa,439
+1383,12,1225,Computadora e internet,Usa,868
+1384,12,1226,Computadora e internet,Usa,793
+1385,12,1227,Computadora e internet,Usa,1647
+1386,12,1228,Computadora e internet,Usa,440
+1387,12,1229,Computadora e internet,Usa,1397
+1388,12,1230,Computadora e internet,Usa,1975
+1389,13,1301,Computadora e internet,Usa,36416
+1390,13,1302,Computadora e internet,Usa,6649
+1391,13,1303,Computadora e internet,Usa,1901
+1392,13,1304,Computadora e internet,Usa,2066
+1393,13,1305,Computadora e internet,Usa,1614
+1394,13,1306,Computadora e internet,Usa,2504
+1395,13,1307,Computadora e internet,Usa,6230
+1396,13,1308,Computadora e internet,Usa,3379
+1397,13,1309,Computadora e internet,Usa,3015
+1398,13,1310,Computadora e internet,Usa,335
+1399,13,1311,Computadora e internet,Usa,1082
+1400,13,1312,Computadora e internet,Usa,2665
+1401,13,1313,Computadora e internet,Usa,462
+1402,13,1314,Computadora e internet,Usa,399
+1403,13,1315,Computadora e internet,Usa,864
+1404,13,1316,Computadora e internet,Usa,264
+1405,13,1317,Computadora e internet,Usa,2271
+1406,13,1318,Computadora e internet,Usa,611
+1407,13,1319,Computadora e internet,Usa,484
+1408,13,1320,Computadora e internet,Usa,1285
+1409,13,1321,Computadora e internet,Usa,344
+1410,13,1322,Computadora e internet,Usa,319
+1411,13,1323,Computadora e internet,Usa,1011
+1412,13,1324,Computadora e internet,Usa,1736
+1413,13,1325,Computadora e internet,Usa,1260
+1414,13,1326,Computadora e internet,Usa,5706
+1415,13,1327,Computadora e internet,Usa,3303
+1416,13,1328,Computadora e internet,Usa,688
+1417,13,1329,Computadora e internet,Usa,49
+1418,13,1330,Computadora e internet,Usa,176
+1419,13,1331,Computadora e internet,Usa,1057
+1420,13,1332,Computadora e internet,Usa,814
+1421,13,1333,Computadora e internet,Usa,477
+1422,14,1401,Computadora e internet,Usa,13705
+1423,14,1402,Computadora e internet,Usa,1390
+1424,14,1403,Computadora e internet,Usa,1100
+1425,14,1404,Computadora e internet,Usa,1533
+1426,14,1405,Computadora e internet,Usa,1447
+1427,14,1406,Computadora e internet,Usa,7063
+1428,14,1407,Computadora e internet,Usa,291
+1429,14,1408,Computadora e internet,Usa,1387
+1430,14,1409,Computadora e internet,Usa,718
+1431,14,1410,Computadora e internet,Usa,2827
+1432,14,1411,Computadora e internet,Usa,3323
+1433,14,1412,Computadora e internet,Usa,2722
+1434,14,1413,Computadora e internet,Usa,5452
+1435,14,1414,Computadora e internet,Usa,912
+1436,14,1415,Computadora e internet,Usa,3240
+1437,14,1416,Computadora e internet,Usa,1971
+1438,14,1417,Computadora e internet,Usa,318
+1439,14,1418,Computadora e internet,Usa,880
+1440,14,1419,Computadora e internet,Usa,1757
+1441,14,1420,Computadora e internet,Usa,6094
+1442,14,1421,Computadora e internet,Usa,1198
